@@ -1,0 +1,5 @@
+- Haidar Muhammad Naufal
+- 16 yo
+- Male
+- Student
+- Indonesia
