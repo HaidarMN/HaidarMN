@@ -1,5 +1,1 @@
-- Haidar Muhammad Naufal
-- 17 yo
-- Male
-- Student
-- Indonesia
+
